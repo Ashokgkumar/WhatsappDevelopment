@@ -7,7 +7,7 @@ System.out.println("Audio function added");
 System.out.println("Document function added");
 System.out.println("All Options Added Successfully");
 System.out.println("Triggered");
-System.out.println("Github Testing");
+System.out.println("Git Testing");
   
 }
 }
